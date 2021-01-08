@@ -1,0 +1,11 @@
+VOL=STARTER (UNLABELLED)         TAPE ANALYSIS PROGRAM   (T A P E M A P)  V2.1          TUESDAY    DEC 29, 2020  (20.364)  22:31:37
+
+------------------------------------------------------------------------------------------------------------------------------------
+RELOAD   FILE                     PSWD                   INFO                 BLOCK   BLOCK            LNTH  TOTL  CREATOR
+FORMAT   SEQ#  DATASET NAME       REQD  C-DATE  E-DATE  SOURCE  RECFM  LRECL   SIZE   COUNT  DEN  TRT  (FT)  LNTH  JOBNAME/STEPNAME
+------------------------------------------------------------------------------------------------------------------------------------
+++++ NO VOL1 LABEL FOUND.  NL ANALYSIS FOLLOWS ++++
+
+            1                                            SCAN   F                80     739  6250        20    20
+IEHDASDR    2                                            SCAN   U             12976   10756  6250       434   453
+     *** EOV ***
