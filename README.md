@@ -272,10 +272,10 @@ Press ENTER. You will see
   
   Reply with R 0,U
   
-  OS/VS1 will start the P0 initiator
+  OS/VS1 will start the P0 initiator and wait for jobs to be submitted. 
   
   <pre>
-   IEE600I REPLY TO 00 IS 'U'                
+  IEE600I REPLY TO 00 IS 'U'                
   IEE048I INITIALIZATION COMPLETED          
   IEF403I INITSWA  STARTED TIME=18.42.55 P00 
   IEF005I PARTITION WAITING FOR WORK  P00
@@ -296,6 +296,7 @@ Press ENTER. You will see
   http://www.j76.org/vs1/documentation.html
   
   
+  If you have any problems with this procedure, then post an issue here on github. 
   
   
   
