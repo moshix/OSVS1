@@ -50,11 +50,13 @@ Use thiis Hercules config file:
 
 Use your telnet client to connect to Hercules (not a 3270 emulator!!) to address 01F, this will act also as the system log to make things easier. 
 
-IPL from address 150. You will see
+IPL from address 150. You will see (as the prophecy foretold)
+
 <pre>
     IEA760A SPECIFY VIRTUAL STORAGE SIZE
 </pre>    
-Press Enter. You will see
+
+Press Enter. You will see (if you look)
 
 <pre>
  IEA791I  DEVICE 130 NOT READY                                        
@@ -80,7 +82,7 @@ Reply with:
 
 This will cold start the job queue (remember, no HASP or JES in OS/VS1), and allocate the required page data set on volume DLIBA1. 
 
-You will see
+You will see, according to the legend of Zork
 
 <pre>
  IEA764I NIP01,CMD01,DFN01,JESNULL,SET01          
