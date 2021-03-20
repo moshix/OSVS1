@@ -20,10 +20,11 @@ The IBM VS1 6.0 starter system is a very basic system, with the bare functionali
 
 Note:  VS1's NIP console interface is primitive, so early replies in NIP must be of the format:
 
-  r 00,'text'
+  R 00,'TEXT'
 
 with an ID of 00 and single quotes enclosing the reply text.
 Use thiis Hercules config file:
+
 <pre>
 
   CPUSERIAL 060305        # CPU serial number 
@@ -50,9 +51,9 @@ Use thiis Hercules config file:
 Use your telnet client to connect to Hercules (not a 3270 emulator!!) to address 01F, this will act also as the system log to make things easier. 
 
 IPL from address 150. You will see
-
+<pre>
     IEA760A SPECIFY VIRTUAL STORAGE SIZE
-    
+</pre>    
 Press Enter. You will see
 
 <pre>
