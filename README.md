@@ -26,7 +26,7 @@ with an ID of 00 and single quotes enclosing the reply text.
 
 
 
-First Step:
+<br><br>First Step:
 
 Use this Hercules config file:
 
@@ -224,8 +224,12 @@ Press ENTER. You will see
  
  SF ,00E
  
- Now, shut down the system and IPL again. Press ENTER to all the messages from NIP
+ Now, shut down the system and IPL again. 
  
+ <br><br>Second Step:
+
+ Right ater IPL, press ENTER to all the messages from NIP
+
  <pre>
  
   IEA760A SPECIFY VIRTUAL STORAGE SIZE          
