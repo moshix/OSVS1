@@ -26,7 +26,7 @@ with an ID of 00 and single quotes enclosing the reply text.
 
 
 
-<br><br>First Step:
+<br><br><b>First Step:</b>
 
 Use this Hercules config file:
 
@@ -226,7 +226,7 @@ Press ENTER. You will see
  
  Now, shut down the system and IPL again. 
  
- <br><br>Second Step:
+ <br><br><b>Second Step:</b>
 
  Right ater IPL, press ENTER to all the messages from NIP
 
