@@ -133,7 +133,7 @@ Press ENTER. You will see
  
  Reply with R 1,U
  
- You will see
+ The following incantation will hit your eyeballs
  
  <pre>
    IEE600I REPLY TO 01 IS 'U'
@@ -201,7 +201,7 @@ Press ENTER. You will see
  *04 IEC107D E 150,DLIBA1,UPDATES,PARMLIB,SYS1.PARMLIB P00
  </pre>
  
- Tell the system yeah, yeah, I know by doing
+ Tell the system yeah, yeah, I know what I am doing by tellit it:
  
  R 4,U
  
