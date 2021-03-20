@@ -16,7 +16,7 @@ SYSGEN INSTRUCTIONS
 ===================
 
 
-The IBM VS1 6.0 starter system is a very basic system, with the bare functionality needed to generate your own system. You will end up with a very basic system which is certainly capable of getting all the necessary compilers installed. Once fully configured this bad boy will run your 70s Savings and Loan insitution, or freight train company, no problem. 
+The IBM VS1 6.0 starter system is a very basic system, with the bare functionality needed to generate your own system. You will end up with a very basic system which is certainly capable of getting all the necessary compilers installed. Once fully configured this bad boy will run a 70s Savings and Loan institution, or a freight train company, no problem. 
 
 Note:  VS1's NIP console interface is primitive, so early replies in NIP must be of the format:
 
