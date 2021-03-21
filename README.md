@@ -215,7 +215,7 @@ Press ENTER. You will see
  Same thing again, just do R 05,U
  
  <pre>
-  IEE600I REPLY TO 05 IS 'U'                              
+ IEE600I REPLY TO 05 IS 'U'                              
  IEF404I UPDATES  ENDED  TIME=18.36.50 P00              
  IEF005I PARTITION WAITING FOR WORK  P00
  </pre>
