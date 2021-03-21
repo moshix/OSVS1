@@ -64,7 +64,7 @@ IPL from address 150. You will see (as the prophecy foretold)
 Press Enter. You will see (if you look)
 
 <pre>
- IEA791I  DEVICE 130 NOT READY                                        
+  IEA791I  DEVICE 130 NOT READY                                        
   IEA761I PAGE=(U=148,BLK=1024)                                        
   IEA791I  DEVICE 148 NOT READY                                        
   IEA761I PAGE=(U=150,BLK=1024)                                        
@@ -99,7 +99,7 @@ You will see, according to the legend of Zork
 Press ENTER. You will see
 
 <pre>
- IEA208I SYS1.DUMP FUNCTION INOPERATIVE
+  IEA208I SYS1.DUMP FUNCTION INOPERATIVE
   IEA210I  SYS1.PAGE ALLOCATED ON DLIBA1
   IEA106I IEAAPF00 NOT FOUND IN SYS1.PARMLIB
   181903 8000  IEE140I SYSTEM CONSOLES
@@ -145,7 +145,7 @@ Press ENTER. You will see
  This will format the spool and job areas, and a command to monitor jobs will be automatically be issued, as well as initiator P0 will be launched:
  
  <pre>
-   IEE600I REPLY TO 02 IS 'U'                
+  IEE600I REPLY TO 02 IS 'U'                
   IEE052I MN      JOBNAMES,T
   IEE052I S        INITSWA.P0
   IEE048I INITIALIZATION COMPLETED          
@@ -156,7 +156,7 @@ Press ENTER. You will see
  Now the system can only run one job at a time. To allow 2 jobs to execute we need to change the SYS1.PARMLIB and the SYS2.PROCLIB. There is TSO or any interactive facility here (that's why I run this under VM/370 exclusively...).So we need a small batch job to make the change. Use this JCL by Kevin Leonard:
  
  <pre>
-   //UPDATES  JOB 1,SOFTWARE,CLASS=A,MSGCLASS=A
+  //UPDATES  JOB 1,SOFTWARE,CLASS=A,MSGCLASS=A
   //*
   //* 2020/12/12 @kl updates to VS1 6.0 starter system
   //*                SYS1.PARMLIB/SYS1.PROCLIB
