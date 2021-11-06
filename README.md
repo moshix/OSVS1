@@ -13,6 +13,8 @@ All the credit goes to the two above mentioned gentlemen... and to International
 thanks
 
 Moshix
+<br><br><b>
+For a better guide than mine, read this guide by Simon Toffler (with screen shots!): <a href"https://github.com/moshix/OSVS1/blob/main/OSVS1%20Sysgen.pdf"></b>
 
 
 
