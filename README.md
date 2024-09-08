@@ -59,7 +59,7 @@ Use this Hercules config file:
   014a      3350    dasd/fdlb60.14a.cckd
 </pre>
 
-Use your telnet client to connect to Hercules (not a 3270 emulator!!) to address 01F, this will act also as the system log to make things easier. 
+Use your telnet client to connect to Hercules **(not a 3270 emulator!!)** to address 01F, this will act also as the system log to make things easier. 
 
 IPL from address 150. You will see (as the prophecy foretold)
 
