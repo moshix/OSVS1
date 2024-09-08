@@ -160,7 +160,7 @@ Press ENTER. You will see
   IEF005I PARTITION WAITING FOR WORK  P00
  </pre>
  
- Now the system can only run one job at a time. To allow 2 jobs to execute we need to change the SYS1.PARMLIB and the SYS2.PROCLIB. There is TSO or any interactive facility here (that's why I run this under VM/370 exclusively...).So we need a small batch job to make the change. Use this JCL by Kevin Leonard:
+ Now the system can only run one job at a time. To allow 2 jobs to execute we need to change the SYS1.PARMLIB and the SYS2.PROCLIB. There is no TSO or any interactive facility here (that's why I run this under VM/370 exclusively...).So we need a small batch job to make the change. Use this JCL by Kevin Leonard:
  
  <pre>
   //UPDATES  JOB 1,SOFTWARE,CLASS=A,MSGCLASS=A
