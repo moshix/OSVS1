@@ -5,10 +5,7 @@
 IBM OS/VS1 Release 6.0 Distribution Library Tapes
 -------------------------------------------------
 
-This is a repo that simply stores the DLIB tapes of OS/VS1 rel 6.0 as announced and made available by Kevin Leonard and (I think) Mark Waterbury. 
-I did not contribute anything to these tapes, I simply make them available to myself here so I don't have to log on to groups.io each time to download them. 
-
-All the credit goes to the two above mentioned gentlemen... and to International Business Machines aka IBM. 
+This is a repo that simply stores the DLIB tapes of OS/VS1 rel 6.0. The SYSGEN instructions below are by K. Leonard and M. Waterbury.    
 
 thanks
 
@@ -298,12 +295,9 @@ Press ENTER. You will see
   Documentation
   =============
   
-  Kevin Leonard, our amazing JES3, OS/VS1 and OS/VS2 expert extraordinnaire, makes some manuals available here: 
+  Kevin Leonard makes some manuals available here: 
   http://www.j76.org/vs1/documentation.html
   
-  
-  If you have any problems with this procedure, then post an issue here on github. 
-  
-  
+  January, 2025
   
  
